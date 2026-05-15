@@ -12,9 +12,10 @@ Orbit aims to solve this problem by creating a safe, engaging, and student-focus
 
 ## Team Members
 
-* Member 1
-* Member 2
-* Member 3
+* Anjali Yadav
+* Vania Colaco
+* Dueala Noronha
+* Vaishnavi Nayak
 
 ## Project Description
 
