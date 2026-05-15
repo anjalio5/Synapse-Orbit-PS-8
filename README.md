@@ -79,6 +79,8 @@ Comprehensive tracking of mission completions, activity, wellness stats, and ove
 ## APIs
 
 * Google Gemini API (`@google/genai`)
+* Eleven Labs API
+* SupaBase
 
 ---
 
