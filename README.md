@@ -116,8 +116,8 @@ Make sure the following are installed/configured:
 ## 2. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd orbit
+git clone https://github.com/anjalio5/Synapse-Orbit-PS-8
+cd path
 ```
 
 ---
@@ -179,21 +179,6 @@ http://localhost:3000
 6. Complete Daily Missions to build positive habits.
 7. Participate anonymously in Support Hub discussions.
 8. Monitor growth and achievements through Orb Island and Profile Progress.
-
----
-
-# 📸 Screenshots
-
-*Add application screenshots here.*
-
-Suggested Screens:
-
-* Onboarding Screen
-* Nova AI Chat Interface
-* Mood Tracking Dashboard
-* Daily Missions Page
-* Support Hub
-* Orb Island Progress View
 
 ---
 
