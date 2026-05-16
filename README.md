@@ -2,7 +2,7 @@
 
 ## Team Name
 
-Orbit Innovators
+Team Synapse
 
 ## Problem Statement
 
