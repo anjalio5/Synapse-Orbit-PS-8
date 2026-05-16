@@ -197,14 +197,11 @@ Suggested Screens:
 
 ---
 
-# 🎥 Demo Video
-
-*Add your demo video link here.*
-
-Example:
+# 🎥 Demo Links
 
 ```txt
-https://your-demo-video-link.com
+https://orbitapp2026.netlify.app
+https://orbit-pulse.netlify.app/
 ```
 
 ---
